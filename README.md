@@ -24,10 +24,6 @@ https://docs.microsoft.com/en-us/azure/cosmos-db/sql/sql-query-join
 
 https://docs.microsoft.com/en-us/azure/cosmos-db/sql/sql-query-subquery
 
-#### EF Core Cosmos GitHub issue - Translate subquery in filter condition:
-
-https://github.com/dotnet/efcore/issues/17957
-
 #### Plan and manage costs for Azure Cosmos DB:
 
 https://docs.microsoft.com/en-us/azure/cosmos-db/plan-manage-costs
@@ -47,6 +43,10 @@ https://github.com/dotnet/EntityFramework.Docs
 #### EF Core 6 Cosmos GitHub samples:
 
 https://github.com/dotnet/EntityFramework.Docs/tree/main/samples/core/Miscellaneous/NewInEFCore6.Cosmos
+
+#### EF Core Cosmos GitHub issue - Translate subquery in filter condition:
+
+https://github.com/dotnet/efcore/issues/17957
 
 #### What's New in EF Core 6.0:
 
