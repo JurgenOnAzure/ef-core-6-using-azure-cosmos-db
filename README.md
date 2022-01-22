@@ -1,3 +1,5 @@
+# Using EF Core 6 with Azure Cosmos DB
+
 Hi!
 
 Here you'll find the demo and study material for my Pluralsight course [Using EF Core 6 with Azure Cosmos DB](https://pluralsight.pxf.io/efcore6-cosmos).
