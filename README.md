@@ -18,6 +18,10 @@ I hope you enjoyed the course. If you have any questions, please don't hesitate 
 
 https://docs.microsoft.com/en-us/azure/cosmos-db
 
+#### Azure Cosmos DB free tier:
+
+https://docs.microsoft.com/en-us/azure/cosmos-db/free-tier
+
 #### Joins in Azure Cosmos DB:
 
 https://docs.microsoft.com/en-us/azure/cosmos-db/sql/sql-query-join
