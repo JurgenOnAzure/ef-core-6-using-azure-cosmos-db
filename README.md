@@ -16,7 +16,7 @@ I hope you enjoyed the course. If you have any questions, please don't hesitate 
 
 #### Download Visual Studio Community (Free) Edition:
 
-https://visualstudio.microsoft.com/vs/community/
+https://visualstudio.microsoft.com/vs/community
 
 ### Azure Cosmos DB
 
