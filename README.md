@@ -12,6 +12,12 @@ I hope you enjoyed the course. If you have any questions, please don't hesitate 
 
 ## References and documentation
 
+### Tools
+
+#### Download Visual Studio Community (Free) Edition:
+
+https://visualstudio.microsoft.com/vs/community/
+
 ### Azure Cosmos DB
 
 #### Azure Cosmos DB documentation landing page:
