@@ -87,7 +87,9 @@ https://github.com/dotnet/efcore/issues/17957
 #### EF Core Cosmos GitHub issues - Querying into the contents of primitive collections is not currently supported:
 
 https://github.com/dotnet/efcore/issues/16926
+
 https://github.com/dotnet/efcore/issues/25700
+
 https://github.com/dotnet/efcore/issues/25701
 
 #### Example of a custom Cosmos Execution Strategy:
