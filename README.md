@@ -52,6 +52,10 @@ https://docs.microsoft.com/en-us/azure/cosmos-db/index-policy
 
 https://docs.microsoft.com/en-us/azure/cosmos-db/partitioning-overview
 
+#### How to model and partition data on Azure Cosmos DB using a real-world example:
+
+https://docs.microsoft.com/en-us/azure/cosmos-db/sql/how-to-model-partition-example
+
 ### EF Core
 
 #### EF Core Project GitHub:
