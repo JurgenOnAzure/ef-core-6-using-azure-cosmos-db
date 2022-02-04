@@ -92,6 +92,10 @@ https://github.com/dotnet/efcore/issues/25700
 
 https://github.com/dotnet/efcore/issues/25701
 
+#### All EF Core Cosmos GitHub issues:
+
+https://github.com/dotnet/efcore/issues?q=label%3Aarea-cosmos
+
 #### Example of a custom Cosmos Execution Strategy:
 
 https://github.com/dotnet/efcore/blob/main/src/EFCore.Cosmos/Storage/Internal/CosmosExecutionStrategy.cs
