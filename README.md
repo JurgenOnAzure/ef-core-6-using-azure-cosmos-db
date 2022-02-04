@@ -28,6 +28,10 @@ https://docs.microsoft.com/en-us/azure/cosmos-db
 
 https://docs.microsoft.com/en-us/azure/cosmos-db/free-tier
 
+#### Azure Cosmos DB service quotas:
+
+https://docs.microsoft.com/en-us/azure/cosmos-db/concepts-limits
+
 #### Joins in Azure Cosmos DB:
 
 https://docs.microsoft.com/en-us/azure/cosmos-db/sql/sql-query-join
