@@ -54,6 +54,10 @@ https://docs.microsoft.com/en-us/azure/cosmos-db/partitioning-overview
 
 ### EF Core
 
+#### EF Core Project GitHub:
+
+https://github.com/dotnet/efcore
+
 #### EF Docs GitHub:
 
 https://github.com/dotnet/EntityFramework.Docs
