@@ -24,6 +24,14 @@ https://visualstudio.microsoft.com/vs/community
 
 https://docs.microsoft.com/en-us/azure/cosmos-db
 
+#### Install and use the Azure Cosmos DB Emulator for local development and testing:
+
+https://docs.microsoft.com/en-us/azure/cosmos-db/local-emulator
+
+#### Troubleshoot issues when using the Azure Cosmos DB Emulator:
+
+https://docs.microsoft.com/en-us/azure/cosmos-db/troubleshoot-local-emulator
+
 #### Azure Cosmos DB free tier:
 
 https://docs.microsoft.com/en-us/azure/cosmos-db/free-tier
