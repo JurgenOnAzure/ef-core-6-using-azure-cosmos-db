@@ -90,6 +90,10 @@ https://docs.microsoft.com/en-us/ef/core/what-is-new/ef-core-6.0/whatsnew
 
 https://docs.microsoft.com/en-us/ef/core/saving/concurrency
 
+#### Change Tracker Debugging:
+
+https://docs.microsoft.com/en-us/ef/core/change-tracking/debug-views
+
 ### EF Core with Azure Cosmos DB
 
 #### EF Core Azure Cosmos DB Provider:
