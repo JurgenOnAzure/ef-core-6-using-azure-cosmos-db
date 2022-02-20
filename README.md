@@ -94,6 +94,14 @@ https://docs.microsoft.com/en-us/ef/core/saving/concurrency
 
 https://docs.microsoft.com/en-us/ef/core/change-tracking/debug-views
 
+#### Possible values for CoreEventId
+
+https://docs.microsoft.com/en-us/dotnet/api/microsoft.entityframeworkcore.diagnostics.coreeventid?view=efcore-6.0
+
+#### Possible values for CosmosEventId
+
+https://docs.microsoft.com/en-us/dotnet/api/microsoft.entityframeworkcore.diagnostics.cosmoseventid?view=efcore-6.0
+
 ### EF Core with Azure Cosmos DB
 
 #### EF Core Azure Cosmos DB Provider:
