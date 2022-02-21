@@ -68,6 +68,10 @@ https://docs.microsoft.com/en-us/azure/cosmos-db/partitioning-overview
 
 https://docs.microsoft.com/en-us/azure/cosmos-db/sql/how-to-model-partition-example
 
+#### Azure Cosmos DB libraries for .NET:
+
+https://docs.microsoft.com/en-us/dotnet/api/overview/azure/cosmosdb
+
 #### Azure Cosmos DB: REST API Reference:
 
 https://docs.microsoft.com/en-us/rest/api/cosmos-db
