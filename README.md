@@ -6,9 +6,27 @@ Here you'll find the demo and study material for my Pluralsight course [Using EF
 
 I hope you enjoyed the course. If you have any questions, please don't hesitate don't contact me!
 
-## TODO
+## Demo solutions source code
 
-...
+### M3 Cosmos Provider
+
+This directory has the source code for module 3: Using the EF Core Azure Cosmos DB Provider.
+
+### M4 Collections
+
+This directory has the source code for module 4: Understanding Collections and Relations.
+
+### M5 Concurrency
+
+This directory has the source code for module 5: Managing Concurrency.
+
+### M6 Diagnostics
+
+This directory has the source code for module 6: Setting up Diagnostics.
+
+### M7 Limitations
+
+This directory has the source code for module 7: Working around Limitations.
 
 ## References and documentation
 
@@ -143,24 +161,3 @@ https://github.com/dotnet/efcore/issues?q=label%3Aarea-cosmos
 #### Example of a custom Cosmos Execution Strategy:
 
 https://github.com/dotnet/efcore/blob/main/src/EFCore.Cosmos/Storage/Internal/CosmosExecutionStrategy.cs
-
-#### :
-
-
-
-#### :
-
-
-
-#### :
-
-
-
-#### :
-
-
-
-#### :
-
-
-
