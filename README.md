@@ -1,4 +1,4 @@
-[![Course banner](https://github.com/JurgenOnAzure/ef-core-6-using-azure-cosmos-db/blob/main/course-banner.png?raw=true)](https://pluralsight.pxf.io/efcore6-cosmos)
+[![Course banner](https://github.com/JurgenOnAzure/ef-core-6-using-azure-cosmos-db/blob/main/course-banner-small.png?raw=true)](https://pluralsight.pxf.io/efcore6-cosmos)
 
 Hi!
 
