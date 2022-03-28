@@ -28,6 +28,8 @@ This directory has the source code for module 6: <b>Setting up Diagnostics</b>.
 
 This directory has the source code for module 7: <b>Working around Limitations</b>.
 
+<hr>
+
 ## References and documentation
 
 ### Tools
