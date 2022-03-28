@@ -10,23 +10,23 @@ I hope you enjoyed the course. If you have any questions, please don't hesitate 
 
 ### M3 Cosmos Provider
 
-This directory has the source code for module 3: Using the EF Core Azure Cosmos DB Provider.
+This directory has the source code for module 3: <b>Using the EF Core Azure Cosmos DB Provider</b>.
 
 ### M4 Collections
 
-This directory has the source code for module 4: Understanding Collections and Relations.
+This directory has the source code for module 4: <b>Understanding Collections and Relations</b>.
 
 ### M5 Concurrency
 
-This directory has the source code for module 5: Managing Concurrency.
+This directory has the source code for module 5: <b>Managing Concurrency</b>.
 
 ### M6 Diagnostics
 
-This directory has the source code for module 6: Setting up Diagnostics.
+This directory has the source code for module 6: <b>Setting up Diagnostics</b>.
 
 ### M7 Limitations
 
-This directory has the source code for module 7: Working around Limitations.
+This directory has the source code for module 7: <b>Working around Limitations</b>.
 
 ## References and documentation
 
