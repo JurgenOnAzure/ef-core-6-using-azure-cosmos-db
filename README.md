@@ -1,4 +1,4 @@
-# Using EF Core 6 with Azure Cosmos DB
+[![Course banner](https://github.com/JurgenOnAzure/ef-core-6-using-azure-cosmos-db/blob/main/course-banner.png?raw=true)](https://pluralsight.pxf.io/efcore6-cosmos)
 
 Hi!
 
@@ -27,8 +27,6 @@ This directory has the source code for module 6: <b>Setting up Diagnostics</b>.
 ### M7 Limitations
 
 This directory has the source code for module 7: <b>Working around Limitations</b>.
-
-<hr>
 
 ## References and documentation
 
